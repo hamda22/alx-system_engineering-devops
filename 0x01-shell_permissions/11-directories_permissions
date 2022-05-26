@@ -1,2 +1,2 @@
 #!/bin/bash
- sudo find . -type d -exec chmod ugo=+x ls -F /
+ chmod a+x ls -d */
