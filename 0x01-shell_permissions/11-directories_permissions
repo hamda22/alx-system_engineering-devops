@@ -1,2 +1,2 @@
 #!/bin/bash
- :wqchmod-R a+x ls -d */
+chmod-R a+x ls -d */
