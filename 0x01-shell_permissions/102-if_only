@@ -1,0 +1,7 @@
+#!/bin/bash
+user='guillaume'
+username='- user guillaume'
+if[user==username]
+then
+chmod betty hello
+fi
