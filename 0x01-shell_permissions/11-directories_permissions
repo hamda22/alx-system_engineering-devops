@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod-R a+x tree . -d 
+chmod-R ugo+x -d  */.
