@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff ls -dr
+chown -R vincent:staff ls -a
