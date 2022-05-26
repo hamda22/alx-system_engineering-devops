@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R vincent:staff ls -dr
+chown -R vincent:staff ls -dr
