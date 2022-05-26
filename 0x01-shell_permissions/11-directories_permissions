@@ -1,2 +1,2 @@
 #!/bin/bash
- sudo find . -type d -exec chmod -R u=rwx,g=xr,o=rx ls -F /
+ sudo find . -type d -exec chmod ugo=+x ls -F /
