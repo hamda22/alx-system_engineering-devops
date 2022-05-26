@@ -1,2 +1,2 @@
 #!/bin/bash
- sudo find . -type d -exec chmod -R u=rwx,g=xr,o=rx ls -r
+ sudo find . -type d -exec chmod -R u=rwx,g=xr,o=rx {} \;
